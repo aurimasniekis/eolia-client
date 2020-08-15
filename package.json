@@ -1,0 +1,23 @@
+{
+  "displayName": "Panasonic Eolia APP API Client",
+  "name": "eolia-client",
+  "version": "1.0.0",
+  "description": "A Panasonic Eolia Air Conditioner App API Client",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/aurimasniekis/eolia-client.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aurimasniekis/eolia-client/issues"
+  },
+  "main": "index.js",
+  "keywords": [
+    "panasonic",
+    "eolia",
+    "air conditioner"
+  ],
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
